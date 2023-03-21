@@ -3,6 +3,7 @@ package gitProFlex;
 public class gitProFlex {
 
 	static int habilidades=99;
+	static int peloponesa=1;
 	
 	int mostrarHabilidades() {
 		return habilidades;
