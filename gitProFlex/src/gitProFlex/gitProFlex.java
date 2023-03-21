@@ -6,6 +6,7 @@ public class gitProFlex {
 	static int peloponesa=1;
 	static int pushHealth=999;
 	static int pushMind=67;
+	static int pomPushGota=607174;
 	
 	int mostrarHabilidades() {
 		return habilidades;
